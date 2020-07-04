@@ -1,5 +1,6 @@
-# class Except():
-#
+class Except():
+    pass
+
 #     def __init__(self):
 #         pass
 #
